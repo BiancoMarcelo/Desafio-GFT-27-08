@@ -1,0 +1,15 @@
+Estou trabalhando com Java e preciso ordenar uma lista de objetos Pessoa pelo atributo idade.
+
+Se trata de um projeto academico, não profissional
+
+Na Classe Pessoa, eu tenho os seguintes atributos:
+ - private String nome;
+
+Nessa mesma classe, eu já criei os getters/setters apenas
+
+Esse programa não possui requisitos específicos
+
+Segue abaixo o código que escrevi até o momento.
+
+
+Estou utilizando a versão 17 do java
